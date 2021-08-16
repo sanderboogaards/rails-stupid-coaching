@@ -26,3 +26,29 @@ a {
   border-left: 6px solid lightgrey;
   padding-left: 15px;
 }
+
+.btn {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+}
+
+input[type="text" i] {
+  height: 40px;
+  width: 1000px;
+  padding: 0;
+  margin-right: 0;
+  border-radius: 5px;
+}
+
+input[type="submit" i] {
+  height: 40px;
+  width: 75px;
+  padding: 0;
+  margin-left: 0;
+
+}
+
+input {
+  border-color: lightgrey
+}
